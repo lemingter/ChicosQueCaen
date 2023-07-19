@@ -6,6 +6,6 @@
 /NAME:"UnrealEditor-RiderLC.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Luis\Documents\Juegos Unity\A es trella\MultiplayerRunner\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLC\RiderLC.cpp.obj"
-"C:\Users\Luis\Documents\Juegos Unity\A es trella\MultiplayerRunner\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLC\Default.rc2.res"
-/OUT:"C:\Users\Luis\Documents\Juegos Unity\A es trella\MultiplayerRunner\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLC\UnrealEditor-RiderLC.lib"
+"C:\Users\Luis\Documents\GitHub\MultiplayerRunner\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLC\RiderLC.cpp.obj"
+"C:\Users\Luis\Documents\GitHub\MultiplayerRunner\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLC\Default.rc2.res"
+/OUT:"C:\Users\Luis\Documents\GitHub\MultiplayerRunner\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RiderLC\UnrealEditor-RiderLC.lib"
